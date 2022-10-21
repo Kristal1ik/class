@@ -60,6 +60,7 @@ class Pendulum(object):
 $$
 \int_{}^{}\frac{dx}{a^{2}+x^{2}}=\frac{1}{2}arctg\frac{x}{a}+ C  (a\not\equiv 0)
 $$
+
 $$
 \int_{}^{}\frac{dx}{\sqrt{a^{2}±x^{2}}}=ln|x+\sqrt{x^{2}±a^{{2}}}|+C (a>0)
 $$
